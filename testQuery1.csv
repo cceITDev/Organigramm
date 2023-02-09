@@ -1,5 +1,5 @@
-"﻿name","imageUrl","area","profileUrl","office","positionName","id","parentID","color"
-"Fabian Hofer","","CCE Solutions","          ","IT (IT)","IT Assistant","198","131","#FF0000"
-"Thomas Berka","","CCE Solutions","          ","IT (IT)","Head of IT","131","","#FF0000"
-"Philip Aigner","","CCE Solutions","          ","IT (IT)","IT Assistant","164","131","#FF0000"
-"Thomas Mousek","","","          ","","","162","131","#66CC00"
+﻿name,imageUrl,area,profileUrl,office,positionName,id,parentID,color
+Fabian Hofer,,CCE Solutions,          ,IT (IT),IT Assistant,198,131,#FF0000
+Thomas Berka,,CCE Solutions,          ,IT (IT),Head of IT,131,,#FF0000
+Philip Aigner,,CCE Solutions,          ,IT (IT),IT Assistant,164,131,#FF0000
+Thomas Mousek,,,          ,,,162,131,#66CC00
