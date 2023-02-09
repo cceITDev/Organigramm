@@ -1,4 +1,5 @@
-"Name","imageUrl","area","profileUrl","office","positionName","id","parentID","color"
+﻿name,imageUrl,area,profileUrl,office,positionName,id,parentId,color
+CCE Group,https://cdn-icons-png.flaticon.com/512/1705/1705681.png,,,,,O-1000,,#66CC00
 "Fabian Hofer","","CCE Solutions","          ","IT (IT)","IT Assistant","198","131","#FF0000"
-"Thomas Berka","","CCE Solutions","          ","IT (IT)","Head of IT","131","null","#FF0000"
+"Thomas Berka","","CCE Solutions","          ","IT (IT)","Head of IT","131","O-1000","#FF0000"
 "Philip Aigner","","CCE Solutions","          ","IT (IT)","IT Assistant","164","131","#FF0000"
